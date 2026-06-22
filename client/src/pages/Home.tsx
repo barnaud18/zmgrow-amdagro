@@ -108,7 +108,7 @@ function Hero() {
             <div className="product-glow" />
             <div className="product-photo-wrapper">
               <img
-                src="/manus-storage/zm-grow_fb05be3f.webp"
+                src="./zm-grow_fb05be3f.webp"
                 alt="Galão ZM-GROW 10 litros — AMD Agro"
                 className="product-photo"
               />
@@ -668,7 +668,7 @@ function ContactForm() {
 }
 
 // ── Footer ───────────────────────────────────────────────────
-const AMD_LOGO = "/manus-storage/amdagro-logo_3cf76ebf.jpg";
+const AMD_LOGO = "./amdagro-logo_3cf76ebf.jpg";
 
 function Footer() {
   return (
